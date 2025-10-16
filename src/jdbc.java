@@ -19,6 +19,7 @@ public class jdbc {
 //			while(rs.next()) {
 //				System.out.println(rs.getString(1));
 //			}
+// git testing
 			System.out.println(r);
 			return r;
 			
